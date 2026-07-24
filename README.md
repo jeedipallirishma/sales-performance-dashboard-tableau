@@ -1,3 +1,5 @@
+<img width="646" height="846" alt="Screenshot 2026-07-24 185156" src="https://github.com/user-attachments/assets/0884908e-2045-420b-8c50-c6383ecd41df" />
+
 # 📊 Sales Performance Dashboard using Tableau
 
 An interactive **Sales Performance Dashboard** built using **Tableau Public** and the **Sample Superstore** dataset. This project demonstrates how business data can be transformed into meaningful visual insights through interactive dashboards and data storytelling.
@@ -34,12 +36,6 @@ Sales-Performance-Dashboard/
 │
 └── images/
       └── dashboard.png
-```
-
-After uploading the screenshot to GitHub, display it using:
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
 ```
 
 ---
